@@ -4,6 +4,8 @@
 //INSERT LINK//
 
 ## Badges
+[![GitHub license](https://img.shields.io/github/license/Jordan-Stafford/HTML-CSS-Git-Code-Refactor)](https://github.com/Jordan-Stafford/HTML-CSS-Git-Code-Refactor/blob/main/LICENSE)
+
 
 ## Table of Contents
 
