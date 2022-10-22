@@ -65,4 +65,4 @@ THEN I find a concise, descriptive title
 [Click Here! [Instagram]](https://www.instagram.com/_jordan_stafford_/)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[Click Here! [Gmail]](https://mail.google.com/jordanstafforddev@gmail.com)
+jordanstafforddev@gmail
