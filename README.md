@@ -39,7 +39,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 ## Description
-This is my first challenge assignment I had to do for the UT Austin Coding Bootcamp. I learned the basics of HTML, CSS, and some basic methods for responsiveness.
+This is my first challenge assignment I did during my time in the UT Austin Coding Bootcamp. I learned the basics of HTML, CSS, and some basic methods for responsiveness.
 Please take the time to look through the rest of my works and observe my growth.
 ## Media
 ![GitHub_1](https://user-images.githubusercontent.com/114362462/212435597-648c9be9-1047-4bbf-9fab-f5cdb09288e2.png)
